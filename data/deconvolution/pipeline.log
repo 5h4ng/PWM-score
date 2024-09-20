@@ -1,0 +1,25 @@
+Processing input files...
+
+Running MixMHCp...
+
+Min motifs: 1
+Max motifs: 1
+Trash: 1
+Core length: 9
+Input folder: /var/vhosts/vital-it.ch/mixmhcp/data/66ec72ac9dc4d/results//data
+Background: Uniprot
+Number of peptides: 3270
+Number of 9-mer: 2351
+Generating logos with ggseqlogo... 
+
+/var/vhosts/vital-it.ch/mixmhcp/tools/MixMHCp2.1/lib/ /var/vhosts/vital-it.ch/mixmhcp/data/66ec72ac9dc4d/results/ /var/vhosts/vital-it.ch/mixmhcp/data/66ec72ac9dc4d/results/ ACDEFGHIKLMNPQRSTVWY 1 1 pwm
+[1] "Input type read from MixMHCp: PWM"
+[1] "logos/logo_L10_1_1-511"
+[1] "logos/logo_L11_1_1-279"
+[1] "logos/logo_L12_1_1-79"
+[1] "logos/logo_L13_1_1-31"
+[1] "logos/logo_L14_1_1-7"
+[1] "logos/logo_L8_1_1-12"
+[1] "logos/logo_L9_1_1-2351"
+Generating HTML tables document...
+
